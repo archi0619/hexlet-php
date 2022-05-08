@@ -13,5 +13,7 @@
             "email": "temchic1@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^9.8"
+    }
 }
