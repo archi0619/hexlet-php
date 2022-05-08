@@ -1,0 +1,17 @@
+{
+    "name": "artem/archi0619",
+    "description": "Json example",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Artem\\Archi0619\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "artem alekseev",
+            "email": "temchic1@gmail.com"
+        }
+    ],
+    "require": {}
+}
