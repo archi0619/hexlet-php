@@ -3,7 +3,8 @@
     "description": "Json example",
     "type": "project",
     "autoload": {
-        "psr-4": {
+	"files": ["src/Runner.php"],
+	"psr-4": {
             "Artem\\Archi0619\\": "src/"
         }
     },
